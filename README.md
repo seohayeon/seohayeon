@@ -2,11 +2,6 @@
 
 👋 Hello! I am a ` director `. 
 
-
-[![Github Badge](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&link=https://github.com/leegeunhyeok)](https://github.com/leegeunhyeok)
-[![Blog](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&color=orange&logo=bloglovin&link=https://github.com/leegeunhyeok)](https://geundung.dev)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_u/__dev.ghlee)](https://instagram.com/_u/__dev.ghlee)
-
 - 💻 Junior Developer, interested in Web and Development.
 - ⏰ I think steady is my strength.
 - 📝 I mainly use Javascript and Python, and I am interested in new technology.
@@ -21,7 +16,7 @@
 
 
 <!--
-**leegeunhyeok/leegeunhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leegeunhyeok/simi0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
