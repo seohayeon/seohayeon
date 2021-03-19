@@ -2,6 +2,11 @@
 
 👋 Hello! I am a ` director `. 
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegeunhyeok&count_bg=%23A0A0A0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Github Badge](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&link=https://github.com/simi0207)](https://github.com/simi0207)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_u/xeovii)](https://instagram.com/_u/xeovii)
+
 - 💻 Junior Developer, interested in Web and Development.
 - ⏰ I think steady is my strength.
 - 📝 I mainly use Javascript and Python, and I am interested in new technology.
