@@ -20,7 +20,7 @@
 <code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohayeon)](https://github.com/seohayeon/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohayeon)](https://github.com/seohayeon)
 <!--
 **simi0207/simi0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
