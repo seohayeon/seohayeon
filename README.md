@@ -16,6 +16,7 @@
 #### Languages and Skills
 
 <code><img alt="Javascript" src="https://user-images.githubusercontent.com/26512984/88481835-aba64280-cf98-11ea-80a7-c6c5ae3a1235.jpg" width="32"></code>
+<code><img alt="React" src="https://user-images.githubusercontent.com/26512984/88481963-5d457380-cf99-11ea-8c02-c1b4586cb7ca.jpg" width="32"></code>
 <code><img alt="Python" src="https://user-images.githubusercontent.com/26512984/88481834-ab0dac00-cf98-11ea-93a7-7b23c240c59c.jpg" width="32"></code>
 <code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
 
