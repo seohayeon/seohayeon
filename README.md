@@ -8,11 +8,6 @@
 [![Github Badge](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&link=https://github.com/simi0207)](https://github.com/simi0207)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_u/xeovii)](https://instagram.com/_u/xeovii)
 
-- 💻 Junior Developer, interested in Web and Development.
-- ⏰ I think steady is my strength.
-- 📝 I mainly use Javascript and Python, and I am interested in new technology.
-- 🙌 I enjoy talking about development.
-- 🌈 My dream is to make a better web.
 
 #### Languages and Skills
 
