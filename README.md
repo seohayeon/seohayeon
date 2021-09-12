@@ -1,8 +1,6 @@
 ###  SIMI @simi0207
 
-# 10월 7일까지 코딩 안해요...... (기말고사)
 
-<!--
 
 👋 Hello! I am a ` director `. 
 
@@ -36,4 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+
