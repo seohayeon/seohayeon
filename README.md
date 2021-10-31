@@ -1,4 +1,5 @@
-### Hayeon Seo @seohayeon
+### Hayeon Seo @seohayeon  
+[![Hayeon's Skills](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/xeovii)
 
 👋 Hello. I am a high school student with a lot of interest in coding.
 
