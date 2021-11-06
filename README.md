@@ -17,5 +17,5 @@
 
 
 
-[![Hayeon's Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=seohayeon&langs_count=9&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Hayeon's Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=seohayeon&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohayeon&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
